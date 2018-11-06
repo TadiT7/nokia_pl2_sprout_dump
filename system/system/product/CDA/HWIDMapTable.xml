@@ -1,0 +1,134 @@
+<HWMapTable>
+    <HWModel HWID="P2A" SKUID="600WW" SIMSlot="2" PROJECT="PL2">
+        <ro.product.name>Plate2_00WW</ro.product.name>
+        <ro.product.device>PL2_sprout</ro.product.device>
+        <ro.product.model>Nokia 6.1</ro.product.model>
+        <ro.product.model.display>TA-1043</ro.product.model.display>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.board>SDM630</ro.product.board>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 6.1</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.vendor.qti.sys.fw.bg_apps_limit>32</ro.vendor.qti.sys.fw.bg_apps_limit>
+        <persist.camera.zeiss>true</persist.camera.zeiss>
+    </HWModel>
+    <HWModel HWID="P2A" SKUID="600WW" SIMSlot="1" PROJECT="PL2">
+        <ro.product.name>Plate2_00WW</ro.product.name>
+        <ro.product.device>PL2_sprout</ro.product.device>
+        <ro.product.model>Nokia 6.1</ro.product.model>
+        <ro.product.model.display>TA-1050</ro.product.model.display>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.board>SDM630</ro.product.board>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 6.1</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.vendor.qti.sys.fw.bg_apps_limit>32</ro.vendor.qti.sys.fw.bg_apps_limit>
+        <persist.camera.zeiss>true</persist.camera.zeiss>	
+    </HWModel>
+    <HWModel HWID="P2A" SKUID="600ID" SIMSlot="2" PROJECT="PL2">
+        <ro.product.name>Plate2_00WW</ro.product.name>
+        <ro.product.device>PL2</ro.product.device>
+        <ro.product.model>Nokia 6.1</ro.product.model>
+        <ro.product.model.display>TA-1043</ro.product.model.display>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.board>SDM630</ro.product.board>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 6.1</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.vendor.qti.sys.fw.bg_apps_limit>32</ro.vendor.qti.sys.fw.bg_apps_limit>
+        <persist.camera.zeiss>true</persist.camera.zeiss>
+        <ro.camera.shuttersound.skuid>600ID</ro.camera.shuttersound.skuid>
+    </HWModel>
+    <HWModel HWID="P2A" SKUID="600ID" SIMSlot="1" PROJECT="PL2">
+        <ro.product.name>Plate2_00WW</ro.product.name>
+        <ro.product.device>PL2</ro.product.device>
+        <ro.product.model>Nokia 6.1</ro.product.model>
+        <ro.product.model.display>TA-1050</ro.product.model.display>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.board>SDM630</ro.product.board>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 6.1</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.vendor.qti.sys.fw.bg_apps_limit>32</ro.vendor.qti.sys.fw.bg_apps_limit>
+        <persist.camera.zeiss>true</persist.camera.zeiss>
+        <ro.camera.shuttersound.skuid>600ID</ro.camera.shuttersound.skuid>
+    </HWModel>
+    <HWModel HWID="P2A" SKUID="600RU" SIMSlot="2" PROJECT="PL2">
+        <ro.product.name>Plate2_00RU</ro.product.name>
+        <ro.product.device>PL2</ro.product.device>
+        <ro.product.model>Nokia 6.1</ro.product.model>
+        <ro.product.model.display>TA-1043</ro.product.model.display>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.board>SDM630</ro.product.board>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 6.1</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd</ro.com.google.clientidbase>
+        <ro.vendor.qti.sys.fw.bg_apps_limit>32</ro.vendor.qti.sys.fw.bg_apps_limit>
+        <persist.camera.zeiss>true</persist.camera.zeiss>	
+    </HWModel>
+    <HWModel HWID="P2A" SKUID="600RU" SIMSlot="1" PROJECT="PL2">
+        <ro.product.name>Plate2_00RU</ro.product.name>
+        <ro.product.device>PL2</ro.product.device>
+        <ro.product.model>Nokia 6.1</ro.product.model>
+        <ro.product.model.display>TA-1050</ro.product.model.display>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.board>SDM630</ro.product.board>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 6.1</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd</ro.com.google.clientidbase>
+        <ro.vendor.qti.sys.fw.bg_apps_limit>32</ro.vendor.qti.sys.fw.bg_apps_limit>
+        <persist.camera.zeiss>true</persist.camera.zeiss>
+    </HWModel>
+    <HWModel HWID="P2L" SKUID="600WW" SIMSlot="1" PROJECT="PL2">
+        <ro.product.name>Plate2_00WW</ro.product.name>
+        <ro.product.device>PL2_sprout</ro.product.device>
+        <ro.product.model>Nokia 6.1</ro.product.model>
+        <ro.product.model.display>TA-1016</ro.product.model.display>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.board>SDM630</ro.product.board>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 6.1</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.vendor.qti.sys.fw.bg_apps_limit>32</ro.vendor.qti.sys.fw.bg_apps_limit>
+        <persist.camera.zeiss>true</persist.camera.zeiss>
+    </HWModel>
+    <HWModel HWID="P2L" SKUID="600WW" SIMSlot="2" PROJECT="PL2">
+        <ro.product.name>Plate2_00WW</ro.product.name>
+        <ro.product.device>PL2_sprout</ro.product.device>
+        <ro.product.model>Nokia 6.1</ro.product.model>
+        <ro.product.model.display>TA-1045</ro.product.model.display>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.board>SDM630</ro.product.board>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 6.1</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.vendor.qti.sys.fw.bg_apps_limit>32</ro.vendor.qti.sys.fw.bg_apps_limit>
+        <persist.camera.zeiss>true</persist.camera.zeiss>
+    </HWModel>
+    <HWModel HWID="P2H" SKUID="600WW" SIMSlot="2" PROJECT="PL2">
+        <ro.product.name>Plate2_00WW</ro.product.name>
+        <ro.product.device>PL2_sprout</ro.product.device>
+        <ro.product.model>Nokia 6.1</ro.product.model>
+        <ro.product.model.display>TA-1068</ro.product.model.display>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.board>SDM630</ro.product.board>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 6.1</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.vendor.qti.sys.fw.bg_apps_limit>32</ro.vendor.qti.sys.fw.bg_apps_limit>
+        <persist.camera.zeiss>true</persist.camera.zeiss>
+    </HWModel>
+    <HWModel HWID="P2I" SKUID="600WW" SIMSlot="2" PROJECT="PL2">
+        <ro.product.name>Plate2_00WW</ro.product.name>
+        <ro.product.device>PL2_sprout</ro.product.device>
+        <ro.product.model>Nokia 6.1</ro.product.model>
+        <ro.product.model.display>TA-1089</ro.product.model.display>
+        <ro.product.brand>Nokia</ro.product.brand>
+        <ro.product.board>SDM630</ro.product.board>
+        <ro.product.manufacturer>HMD Global</ro.product.manufacturer>
+        <ro.product.nickname>Nokia 6.1</ro.product.nickname>
+        <ro.com.google.clientidbase>android-hmd-rev2</ro.com.google.clientidbase>
+        <ro.vendor.qti.sys.fw.bg_apps_limit>32</ro.vendor.qti.sys.fw.bg_apps_limit>
+        <persist.camera.zeiss>true</persist.camera.zeiss>
+    </HWModel>
+</HWMapTable>

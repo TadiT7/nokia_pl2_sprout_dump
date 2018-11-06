@@ -1,0 +1,21 @@
+on fs
+    setprop ro.com.google.clientidbase android-hmd-rev2
+    setprop ro.product.brand Nokia
+    setprop ro.product.first_api_level 26
+    setprop ro.product.manufacturer "HMD Global"
+    setprop ro.product.model "Nokia 6.1"
+    setprop ro.product.name Plate2_00WW
+    setprop ro.build.flavor Plate2_00WW-user
+    setprop persist.radio.sar.enabled 7
+    setprop ro.product.model.num 00WW
+    setprop setupwizard.feature.deferred_snooze_allow_never true
+    setprop ro.config.dbgcfgtool_config 2
+on boot
+    setprop vendor.mm.enable.qcom_parser 13631230
+
+on post-fs
+    setprop media.settings.xml "product/etc/media_profiles_vendor.xml"
+
+on fs
+	setprop ro.build.fingerprint Nokia/Plate2_00WW/gsi_sdm660_64:9/PPR1.180610.011/00WW_3_260:user/release-keys
+	setprop ro.build.description "Plate2_00WW-user 9 PPR1.180610.011 00WW_3_260 release-keys"
